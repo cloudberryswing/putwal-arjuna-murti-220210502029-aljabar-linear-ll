@@ -39,6 +39,6 @@ Aplikasi ini dirancang untuk memprediksi harga saham berdasarkan data historis d
 
 1. **Clone repositori ini**
 ```bash
-git clone https://github.com/usernamekamu/nama-repo-kamu.git
+git clone https://github.com/cloudberryswing/putwal-arjuna-murti-220210502029-aljabar-linear-ll
 cd nama-repo-kamu
 
