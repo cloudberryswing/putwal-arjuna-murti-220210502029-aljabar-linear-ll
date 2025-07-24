@@ -57,8 +57,12 @@ streamlit run app.py
 
 ## 📊 Fitur Aplikasi
 
-📂 Data Mentah: Tampilkan data historis saham
-🔍 Fitur Teknikal: Hitung dan tampilkan SPV & CHG
-🧼 Pembersihan Data: Tangani missing values sebelum training
-🤖 Prediksi: Lakukan prediksi harga saham untuk beberapa hari ke depan menggunakan SVR dan Linear Regression
-📈 Visualisasi: Bandingkan harga aktual dengan hasil prediksi dalam bentuk grafik
+📂 Data Mentah: Tampilkan data historis saham.
+
+🔍 Fitur Teknikal: Hitung dan tampilkan SPV & CHG.
+
+🧼 Pembersihan Data: Tangani missing values sebelum training.
+
+🤖 Prediksi: Lakukan prediksi harga saham untuk beberapa hari ke depan menggunakan SVR dan Linear Regression.
+
+📈 Visualisasi: Bandingkan harga aktual dengan hasil prediksi dalam bentuk grafik.
