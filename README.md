@@ -22,7 +22,7 @@ Aplikasi ini dirancang untuk memprediksi harga saham berdasarkan data historis d
 
 ---
 
-## 🛠️ Teknologi & Library
+## 🛠️ Library
 
 | Library         | Fungsi Utama                                     |
 |-----------------|--------------------------------------------------|
@@ -55,14 +55,6 @@ streamlit run app.py
 
 ---
 
-## 📊 Fitur Aplikasi
+## ⚠️ Catatan Penting
 
-📂 Data Mentah: Tampilkan data historis saham.
-
-🔍 Fitur Teknikal: Hitung dan tampilkan SPV & CHG.
-
-🧼 Pembersihan Data: Tangani missing values sebelum training.
-
-🤖 Prediksi: Lakukan prediksi harga saham untuk beberapa hari ke depan menggunakan SVR dan Linear Regression.
-
-📈 Visualisasi: Bandingkan harga aktual dengan hasil prediksi dalam bentuk grafik.
+Aplikasi ini bersifat edukatif dan tidak untuk pengambilan keputusan investasi nyata. Harap selalu melakukan analisis tambahan sebelum membuat keputusan finansial.
