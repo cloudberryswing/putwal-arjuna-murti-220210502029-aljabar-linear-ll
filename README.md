@@ -4,7 +4,7 @@
 
 > Proyek Aljabar Linear II  
 > Oleh: **Putwal Arjuna Murti (220210502029)**  
-> Universitas Negeri Makassar – Fakultas Teknik Informatika  
+> Universitas Negeri Makassar – Fakultas Teknik - Jurusan Teknik Informatika  
 
 ---
 
