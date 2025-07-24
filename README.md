@@ -41,3 +41,14 @@ Aplikasi ini dirancang untuk memprediksi harga saham berdasarkan data historis d
 ```bash
 git clone https://github.com/cloudberryswing/putwal-arjuna-murti-220210502029-aljabar-linear-ll
 cd putwal-arjuna-murti-220210502029-aljabar-linear-ll.
+```
+
+2. **Install dependensi**
+```bash
+pip install -r requirements.txt
+```
+
+3. **Jalankan aplikasi**
+```bash
+streamlit run app.py
+```
